@@ -26,7 +26,7 @@ I'm Jonah Madrid, a researcher passionate about solving complex problems and pus
 ### 🌐 Connect with Me
 I'm always excited to collaborate, learn, and share knowledge. Let’s connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jonahmadrid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jonah-madrid-06a59a29a)
 
 ---
 
