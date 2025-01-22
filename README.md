@@ -1,7 +1,7 @@
 # Hi there! 👋 Welcome to my GitHub
 
 ### About Me
-I'm Jonah Madrid, a researcher passionate about solving complex problems and pushing the boundaries of technology. I'm new to GitHub and half of Michael Reeves head is in my profile picture. 
+I'm Jonah Madrid, a researcher passionate about solving complex problems and pushing the boundaries of technology. I'm new to GitHub and uploading projects from my research and personal projects.  
 
 ---
 
